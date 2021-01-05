@@ -1,0 +1,161 @@
+<gallery
+base = ""
+background = "#000000"
+banner = "#000000"
+text = "#FFFFFF"
+link = "#FFFFFF"
+alink = "#FFFFFF"
+vlink = "#FFFFFF"
+date = "">
+	<sitename>PRESS</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#000000"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#000000" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#000000" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "20071014_LATimes.jpg"
+width = "541"
+height = "640"
+thumbpath = "20071014_LATimes.jpg"
+thumbwidth = "63"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20071001_StyleMag_wildlife.jpg"
+width = "469"
+height = "640"
+thumbpath = "20071001_StyleMag_wildlife.jpg"
+thumbwidth = "54"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20070901_Angeleno.jpg"
+width = "512"
+height = "640"
+thumbpath = "20070901_Angeleno.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20070801_NylonMagazine.jpg"
+width = "636"
+height = "640"
+thumbpath = "20070801_NylonMagazine.jpg"
+thumbwidth = "75"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20070801_Genlux.jpg"
+width = "456"
+height = "640"
+thumbpath = "20070801_Genlux.jpg"
+thumbwidth = "53"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20070701_WWD.jpg"
+width = "492"
+height = "640"
+thumbpath = "20070701_WWD.jpg"
+thumbwidth = "57"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20070627_DailyCandy.jpg"
+width = "512"
+height = "640"
+thumbpath = "20070627_DailyCandy.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20070501_ok-magazine.jpg"
+width = "494"
+height = "640"
+thumbpath = "20070501_ok-magazine.jpg"
+thumbwidth = "57"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20070316_WWD.jpg"
+width = "355"
+height = "640"
+thumbpath = "20070316_WWD.jpg"
+thumbwidth = "41"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "20070301_trendcentral.jpg"
+width = "683"
+height = "640"
+thumbpath = "20070301_trendcentral.jpg"
+thumbwidth = "75"
+thumbheight = "70">
+</image>
+
+
+<image
+path = "20070301_Glamorous.jpg"
+width = "930"
+height = "640"
+thumbpath = "20070301_Glamorous.jpg"
+thumbwidth = "75"
+thumbheight = "51">
+</image>
+
+
+<image
+path = "20070301_Box8_2.jpg"
+width = "1003"
+height = "640"
+thumbpath = "20070301_Box8_2.jpg"
+thumbwidth = "75"
+thumbheight = "47">
+</image>
+
+
+<image
+path = "20070301_Box8_1.jpg"
+width = "648"
+height = "640"
+thumbpath = "20070301_Box8_1.jpg"
+thumbwidth = "75"
+thumbheight = "74">
+</image>
+
+
+<image
+path = "20070301_ApparalNews.jpg"
+width = "294"
+height = "640"
+thumbpath = "20070301_ApparalNews.jpg"
+thumbwidth = "34"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>

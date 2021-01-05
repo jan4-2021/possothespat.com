@@ -1,0 +1,42 @@
+div#wrapper {
+  background-image:none;
+  padding:0;
+}
+
+div#masthead {
+  background:#FFF;
+  border:1px solid #e7e7e7;
+  border-bottom:0;
+}
+
+div#content {
+  background:#FFF;
+  border:1px solid #e7e7e7;
+  border-width:0 1px;
+}
+
+p#footer {
+  border-top:1px solid #e7e7e7;
+  background-image:none;
+}
+/*
+     FILE ARCHIVED ON 10:43:15 Jan 11, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:01:39 Jan 05, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.315
+  load_resource: 167.969
+  PetaboxLoader3.datanode: 149.079 (4)
+  exclusion.robots.policy: 0.297
+  esindex: 0.014
+  PetaboxLoader3.resolve: 62.74
+  RedisCDXSource: 1.737
+  LoadShardBlock: 144.196 (3)
+  CDXLines.iter: 18.904 (3)
+  captures_list: 169.071
+*/
